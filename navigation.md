@@ -5,7 +5,7 @@
 [Docs]()
 
   * [开发指南](eclipse.md)
-  * [Readme](readme.md)
+  * [Readme](README.md)
   * [FAQ](faq.md)
   - - - -
   * # Advanced
