@@ -1,6 +1,6 @@
 # yylog Doc
 
-[Home](readme.md)
+[Home](index.md)
 
 [Docs]()
 
